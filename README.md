@@ -6,7 +6,7 @@
 
 ### Objective:
 
-Build a console-based system that manages inventory for a small business. The system should allow admins to create, update, view, and delete products in the inventory while keeping track of stock levels and handling multiple users with role-based permissions.
+Build a console-based system that manages inventory for a small business. The system should allow admins to create, update, view, and delete products in the inventory while keeping track of stock levels and handling multiple users with role-based permissions
 
 ### Requirements & Functionalities:
 
@@ -46,4 +46,5 @@ This project provides hands-on practice with the concepts you’ve learned while
 - Please create the docker image of the template provided in the repository.
 - You can use DevContainer to write your code.
 - The basic requirement is the console based project but if anyone wants to extend it with more features, he can go for it. For a basic GUI, `streamlit` can be used. We have already added it in the packages.
-# Inventory-Management-System
+ 
+ # Inventory-Management-System
